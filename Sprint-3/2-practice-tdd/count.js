@@ -10,3 +10,4 @@ return count;
 
 module.exports = countChar;
 
+//For committing//

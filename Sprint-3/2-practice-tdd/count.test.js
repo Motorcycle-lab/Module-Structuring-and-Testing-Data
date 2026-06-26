@@ -23,3 +23,4 @@ test("should count multiple occurrences of a character", () => {
 // When the function is called with these inputs,
 // Then it should return 0, indicating that no occurrences of `char` were found.
 
+//for committing//
