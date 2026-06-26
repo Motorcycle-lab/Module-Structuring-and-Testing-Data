@@ -9,3 +9,4 @@ return count;
 }
 
 module.exports = countChar;
+
