@@ -4,3 +4,18 @@
 // You will need to declare a function called toPounds with an appropriately named parameter.
 
 // You should call this function a number of times to check it works for different inputs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
